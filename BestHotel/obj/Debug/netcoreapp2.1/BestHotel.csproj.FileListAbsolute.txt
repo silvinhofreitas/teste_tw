@@ -1,0 +1,12 @@
+C:\Users\silvi\Downloads\CSharpTestProject-master\CSharpTestProject-master\BestHotel\bin\Debug\netcoreapp2.1\BestHotel.deps.json
+C:\Users\silvi\Downloads\CSharpTestProject-master\CSharpTestProject-master\BestHotel\bin\Debug\netcoreapp2.1\BestHotel.runtimeconfig.json
+C:\Users\silvi\Downloads\CSharpTestProject-master\CSharpTestProject-master\BestHotel\bin\Debug\netcoreapp2.1\BestHotel.runtimeconfig.dev.json
+C:\Users\silvi\Downloads\CSharpTestProject-master\CSharpTestProject-master\BestHotel\bin\Debug\netcoreapp2.1\BestHotel.dll
+C:\Users\silvi\Downloads\CSharpTestProject-master\CSharpTestProject-master\BestHotel\bin\Debug\netcoreapp2.1\BestHotel.pdb
+C:\Users\silvi\Downloads\CSharpTestProject-master\CSharpTestProject-master\BestHotel\obj\Debug\netcoreapp2.1\BestHotel.AssemblyInfoInputs.cache
+C:\Users\silvi\Downloads\CSharpTestProject-master\CSharpTestProject-master\BestHotel\obj\Debug\netcoreapp2.1\BestHotel.AssemblyInfo.cs
+C:\Users\silvi\Downloads\CSharpTestProject-master\CSharpTestProject-master\BestHotel\obj\Debug\netcoreapp2.1\BestHotel.csproj.CoreCompileInputs.cache
+C:\Users\silvi\Downloads\CSharpTestProject-master\CSharpTestProject-master\BestHotel\obj\Debug\netcoreapp2.1\BestHotel.dll
+C:\Users\silvi\Downloads\CSharpTestProject-master\CSharpTestProject-master\BestHotel\obj\Debug\netcoreapp2.1\BestHotel.pdb
+C:\Users\silvi\Downloads\CSharpTestProject-master\CSharpTestProject-master\BestHotel\obj\Debug\netcoreapp2.1\BestHotel.genruntimeconfig.cache
+C:\Users\silvi\Downloads\CSharpTestProject-master\CSharpTestProject-master\BestHotel\obj\Debug\netcoreapp2.1\BestHotel.csprojAssemblyReference.cache
